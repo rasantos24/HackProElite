@@ -13,5 +13,13 @@ namespace HackProElite.Controllers
         {
             return View();
         }
+        // GET: Register
+        public ActionResult Register()
+        {
+            return View();
+
+
+        }
     }
-}
+
+    }
