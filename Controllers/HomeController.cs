@@ -17,8 +17,12 @@ namespace HackProElite.Controllers
         public ActionResult Register()
         {
             return View();
+        
+        }
 
-
+        public ActionResult AdminIndex()
+        {
+            return View();
         }
     }
 
