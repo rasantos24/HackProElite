@@ -101,15 +101,20 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\css\animate.min.css" />
+    <Content Include="Content\css\bootstrap-rtl.css" />
+    <Content Include="Content\css\bootstrap-rtl.min.css" />
     <Content Include="Content\css\bootstrap.css" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\creative.css" />
+    <Content Include="Content\css\plugins\morris.css" />
+    <Content Include="Content\css\sb-admin-rtl.css" />
+    <Content Include="Content\css\sb-admin.css" />
     <Content Include="Content\font-awesome\css\font-awesome.css" />
     <Content Include="Content\font-awesome\css\font-awesome.min.css" />
     <Content Include="Content\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="Content\img\header.jpg" />
     <Content Include="Content\img\header1.jpg" />
+    <Content Include="Content\img\header3.jpg" />
     <Content Include="Content\img\portfolio\1.jpg" />
     <Content Include="Content\img\portfolio\2.jpg" />
     <Content Include="Content\img\portfolio\3.jpg" />
@@ -125,6 +130,16 @@
     <Content Include="Content\js\jquery.easing.min.js" />
     <Content Include="Content\js\jquery.fittext.js" />
     <Content Include="Content\js\jquery.js" />
+    <Content Include="Content\js\plugins\flot\excanvas.min.js" />
+    <Content Include="Content\js\plugins\flot\flot-data.js" />
+    <Content Include="Content\js\plugins\flot\jquery.flot.js" />
+    <Content Include="Content\js\plugins\flot\jquery.flot.pie.js" />
+    <Content Include="Content\js\plugins\flot\jquery.flot.resize.js" />
+    <Content Include="Content\js\plugins\flot\jquery.flot.tooltip.min.js" />
+    <Content Include="Content\js\plugins\morris\morris-data.js" />
+    <Content Include="Content\js\plugins\morris\morris.js" />
+    <Content Include="Content\js\plugins\morris\morris.min.js" />
+    <Content Include="Content\js\plugins\morris\raphael.min.js" />
     <Content Include="Content\js\wow.min.js" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -196,6 +211,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Home\Register.cshtml" />
+    <Content Include="Views\Home\AdminIndex.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
