@@ -1,0 +1,22 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\csc.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\vbc.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\HackProElite.dll.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\HackProElite.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\bin\HackProElite.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\obj\Debug\HackProElite.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\obj\Debug\HackProElite.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HackProElite\HackProElite\obj\Debug\HackProElite.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\HackProElite-master\obj\Debug\HackProElite.dll
+C:\Users\Rafael\Desktop\HackProElite-master\obj\Debug\HackProElite.pdb
+C:\Users\Rafael\Desktop\HackProElite\obj\Debug\HackProElite.dll
+C:\Users\Rafael\Desktop\HackProElite\obj\Debug\HackProElite.pdb
